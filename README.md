@@ -1,4 +1,4 @@
-# 🤖 Khoi's bot
+# 🤖 Bee's bot
 
 > Um bot de moderação e música para servidores do Discord. (in progress)
 
