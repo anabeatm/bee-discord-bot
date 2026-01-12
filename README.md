@@ -14,8 +14,8 @@ Aqui estão algumas das coisas que o bot pode fazer:
 (in progress)
 * **🎉 Comandos de Interação:**
     * `!ola`: Mostra uma mensagem de olá para o usuário.
-    * `!repete [mensagem]`: Repete exatamente a frase que o usuário mandou.
-    * `!calcular`: Faz cálculos simples como somar, subtrair, multiplicar, etc,.
+    * `!falar [mensagem]`: Repete exatamente a frase que o usuário mandou.
+    * `!userinfo`: Mostra uma mensagem com informações do membro
     * (in progress)...
 
 ## 🛠️ Tecnologias Utilizadas
@@ -42,12 +42,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/anabeatm/projeto-Bot-para-o-Discord.git](https://github.com/anabeatm/projeto-Bot-para-o-Discord.git)
+    git clone [https://github.com/anabeatm/bee-discord-bot](https://github.com/anabeatm/bee-discord-bot.git)
     ```
 
 2.  **Acesse a pasta do projeto:**
     ```bash
-    cd projeto-Bot-para-o-Discord
+    cd bee-discord-bot
     ```
 
 3.  **Instale as dependências:**
